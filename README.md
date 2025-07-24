@@ -204,4 +204,3 @@ MIT License - feel free to use this code in your own projects!
 ---
 
 **Happy coding! 🚀**
-# nextjsauth
